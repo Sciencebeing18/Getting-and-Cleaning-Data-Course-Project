@@ -4,7 +4,7 @@ Contents:
 1. README.md
 2. CodeBook.md
 3. run_analysis.R
-4. tidySet.txt
+4. secTidySet.txt
 
 The CodeBook contains a code book that describes the variables, the data, and any transformations or work that has been performed to clean up the data.
 
@@ -16,4 +16,4 @@ The five steps followed to obtain the results are:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-tidySet.txt contains the output of Step 5 of this course project.
+secTidySet.txt contains the output of Step 5 of this course project.
