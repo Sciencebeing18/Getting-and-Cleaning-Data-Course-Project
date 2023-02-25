@@ -23,6 +23,9 @@ Here are the data for the project:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The variables in the code are:
+
 xtrain, ytrain, xtest, ytest, subject_train and subject_test contain the data from the downloaded files.
+
 merg_train , merg_test and AllInOne a merge the previous datasets to further analysis.
+
 features contains the correct names for the merg_train dataset, which are applied to the column names stored in
