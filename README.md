@@ -1,10 +1,10 @@
 # Getting-and-Cleaning-Data-Course-Project
-Repo for Coursera's "Getting and Cleaning Data" Week 4 project. This Repo contains R code, codebook, and tidy data set for the assignment.
+Repo for "Getting and Cleaning Data"Course  project. This Repo contains R code, codebook, and tidy data set for the assignment.
 Contents: 
-README.md
-CodeBook.md
-run_analysis.R
-tidySet.txt
+1. README.md
+2. CodeBook.md
+3. run_analysis.R
+4. tidySet.txt
 
 The CodeBook contains a code book that describes the variables, the data, and any transformations or work that has been performed to clean up the data.
 
