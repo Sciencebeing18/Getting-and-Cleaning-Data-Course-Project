@@ -24,8 +24,10 @@ Here are the data for the project:
 
 The variables in the code are:
 
-xtrain, ytrain, xtest, ytest, subject_train and subject_test contain the data from the downloaded files.
+subjecttrain, activitytrain, subjecttest, activitytest, featurestrain and featurestest contain the data from the downloaded files.
 
-merg_train , merg_test and AllInOne a merge the previous datasets to further analysis.
+subject,features,activity and completeData a merge the previous datasets to further analysis.
 
-features contains the correct names for the merg_train dataset, which are applied to the column names stored in
+
+
+Tidy.txt contains the final result of the project
